@@ -1,1 +1,1 @@
-# Mosaic
+# Mosaic in python Code to run python mosaic.py <main image> <folder of imgs> <day>

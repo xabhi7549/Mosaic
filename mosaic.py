@@ -90,6 +90,7 @@ class TargetImage:
         # if necessary, crop the image slightly so we use a whole number of tiles horizontally and vertically
         if w_diff or h_diff or i:
             large_img = large_img.crop((w_diff, h_diff, w - w_diff,i))
+            large_img = large_img.crop((w_diff, h_diff, w - w_diff,h-h_diff))
 
         small_img = large_img.resize((int(w / TILE_BLOCK_SIZE), int(h / TILE_BLOCK_SIZE)), Image.ANTIALIAS)
 

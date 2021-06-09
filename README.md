@@ -15,6 +15,8 @@ go to 'file:///D:/mosaic/Output/mosaic.jpeg' in any browser. (No need to open ag
 
 2) In 'People' folder put all the tile image. (More Image More Prossesing time.)
 
+Please visit my blog:- https://site-valley.com/author/abhinav/
+
 
 
 
